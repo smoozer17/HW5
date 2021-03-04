@@ -1,0 +1,902 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.822123,-34.231324 ]
+    },
+    "properties": {
+    "Beach":"Caves, Koegel Bay",
+    "Date":"8-Sep",
+    "Time":"1.40pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.798187,-34.220159 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"26-Dec",
+    "Time":"12.22pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.802689,-34.205595 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"22-Dec",
+    "Time":"3.25pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.811838,-34.243806 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"20-Dec",
+    "Time":"12.40pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.813031,-34.233815 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"17-Dec",
+    "Time":"13.15pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.810774,-34.217291 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"19-Nov",
+    "Time":"4.20pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.814064,-34.225319 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"5-Nov",
+    "Time":"15:15pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.80862,-34.230049 ]
+    },
+    "properties": {
+    "Beach":"Caves, Kogel Bay",
+    "Date":"5-Nov",
+    "Time":"1.36pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.818613,-34.238316 ]
+    },
+    "properties": {
+    "Beach":"Caves,Kogel Bay",
+    "Date":"3-Nov",
+    "Time":"2:29pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.44237,-34.134553 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"9-Jan",
+    "Time":"1.29pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.440732,-34.137128 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"2-Jan",
+    "Time":"10.40am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.442617,-34.136341 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"26-Dec",
+    "Time":"11.05am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.440372,-34.135271 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"23-Dec",
+    "Time":"3.45pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.443988,-34.135275 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"22-Dec",
+    "Time":"4.25pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.441542,-34.136074 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"21-Dec",
+    "Time":"4.59pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.439842,-34.137475 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"21-Dec",
+    "Time":"3.41pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.439836,-34.136337 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"16-Dec",
+    "Time":"1.15pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.441464,-34.134106 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"13-Oct",
+    "Time":"10.15am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.442179,-34.135363 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"6-Oct",
+    "Time":"4.15pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.443871,-34.13643 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"6-Oct",
+    "Time":"10.50am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.441091,-34.136603 ]
+    },
+    "properties": {
+    "Beach":"Clovelly",
+    "Date":"18-Dec",
+    "Time":"1.45pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4364,-34.142837 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"13-Feb",
+    "Time":"5.23pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.436231,-34.142064 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"21-Dec",
+    "Time":"2.25pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.436477,-34.142837 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"16-Dec",
+    "Time":"1.55pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.434765,-34.141186 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"10-Nov",
+    "Time":"1.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435394,-34.141853 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"10-Nov",
+    "Time":"1.10pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43594,-34.141491 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"4-Nov",
+    "Time":"1.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435154,-34.140957 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"3-Nov",
+    "Time":"2:50pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435015,-34.14216 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"30-Sep",
+    "Time":"11.25am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.434477,-34.140261 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"11-Sep",
+    "Time":"10am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435228,-34.140169 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"10-Sep",
+    "Time":"2.35pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435645,-34.142542 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"9-Sep",
+    "Time":"9.15am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.435695,-34.142502 ]
+    },
+    "properties": {
+    "Beach":"Fish Hoek",
+    "Date":"22-Feb",
+    "Time":"1.54pm",
+    "Type":"Latest Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433378,-34.162386 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"28-Dec",
+    "Time":"12.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.431194,-34.162453 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"21-Dec",
+    "Time":"2.39pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433588,-34.162837 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"16-Dec",
+    "Time":"11.23am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433466,-34.163254 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"13-Dec",
+    "Time":"11.55pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433335,-34.162749 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"2-Dec",
+    "Time":"9.09am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433682,-34.163153 ]
+    },
+    "properties": {
+    "Beach":"Glencairn",
+    "Date":"11-Nov",
+    "Time":"2.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.351227,-34.099372 ]
+    },
+    "properties": {
+    "Beach":"The Hoek, Noordhoek",
+    "Date":"4-Dec",
+    "Time":"1.56pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.749425,-34.087307 ]
+    },
+    "properties": {
+    "Beach":"Monwabisi",
+    "Date":"21-Dec",
+    "Time":"12.13pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.478507,-34.11006 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"8-Feb-13",
+    "Time":"4.28pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.476597,-34.111588 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"6-Feb",
+    "Time":"12.20pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.483675,-34.107951 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"9-Jan",
+    "Time":"11.14am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.479867,-34.108901 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"9-Jan",
+    "Time":"10.42am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.478507,-34.11056 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"3-Jan",
+    "Time":"12.55pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.473916,-34.111232 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"2-Jan",
+    "Time":"12.35pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.476557,-34.111588 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"28-Dec",
+    "Time":"14.20pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.482364,-34.109075 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"21-Dec",
+    "Time":"12.35pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.486427,-34.10715 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"1-Dec",
+    "Time":"11h33",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.475031,-34.112657 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"18-Nov",
+    "Time":"1.35pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.48143,-34.108036 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"13-Nov",
+    "Time":"1.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.478241,-34.111861 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"9-Nov",
+    "Time":"3.16pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.48037,-34.110074 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"4-Nov",
+    "Time":"2.13pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.487552,-34.107377 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"3-Nov",
+    "Time":"13.12pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.473233,-34.112879 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"2-Nov",
+    "Time":"12.30pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.481327,-34.109952 ]
+    },
+    "properties": {
+    "Beach":"muizenberg",
+    "Date":"28-Oct",
+    "Time":"12.08pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.488553,-34.106047 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"8-Oct",
+    "Time":"10.30am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.489565,-34.106328 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"8-Oct",
+    "Time":"9.55am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.485203,-34.108651 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"22-Sep",
+    "Time":"12.15pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.484786,-34.107419 ]
+    },
+    "properties": {
+    "Beach":"Muizenberg",
+    "Date":"20-Sep",
+    "Time":"11.10am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.459312,-34.122061 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"2-Jan",
+    "Time":"11.40am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.458936,-34.122771 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"21-Dec",
+    "Time":"3.08pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.460803,-34.121383 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"21-Dec",
+    "Time":"10.15am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.459996,-34.122546 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"1-Dec",
+    "Time":"13h50",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.462019,-34.120264 ]
+    },
+    "properties": {
+    "Beach":"St james",
+    "Date":"1-Dec",
+    "Time":"11h15",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.46327,-34.120002 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"2-Nov",
+    "Time":"9.40pm",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.460916,-34.120436 ]
+    },
+    "properties": {
+    "Beach":"St James",
+    "Date":"4-Nov",
+    "Time":"11.20am",
+    "Type":"Past Sighting"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.350966,-34.101797 ]
+    },
+    "properties": {
+    "Beach":"The Hoek, Noordhoek",
+    "Date":"13-Oct",
+    "Time":"3.30pm",
+    "Type":"Past Sighting"
+    }
+  }
+]
+}
